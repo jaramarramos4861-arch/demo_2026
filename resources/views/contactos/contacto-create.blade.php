@@ -6,7 +6,7 @@
     <title>Contacto</title>
 </head>
 <body>
-    <h1>Formulario de Contacto</h1>
+    <h1>FORMULARIO DE CONTACTO</h1>
     
     <p>
         <a href="{{ route('contactos.index') }}">Volver a la lista de contactos</a>

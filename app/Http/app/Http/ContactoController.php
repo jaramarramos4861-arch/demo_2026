@@ -24,7 +24,7 @@ class ContactoController extends Controller
     {
         return view('contactos.contacto-create');
     }
-
+//metos de edit update y destroy//
     /**
      * Store a newly created resource in storage.
      */
